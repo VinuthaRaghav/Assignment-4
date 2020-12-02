@@ -1,0 +1,33 @@
+*{
+    font-family: 'Rubik', sans-serif;
+
+}
+body{
+    background-color: whitesmoke;
+}
+h1{
+    background-color: white;
+    color:purple;
+    
+}
+h2,h3{
+    background-color: white;
+    color: purple;
+}
+#main{
+    width: 80%;
+    background-color: white;
+    height: 100%;
+    padding: 10px;
+    margin: auto;
+    border-radius: 50px;
+
+}
+img{
+    border-radius: 30px;
+}
+img:hover{
+    box-shadow: 10px 10px 10px black;
+    border-color: black;
+    border-top-left-radius: 5px;
+}
